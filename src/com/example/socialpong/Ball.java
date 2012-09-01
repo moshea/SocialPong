@@ -14,7 +14,6 @@ public class Ball {
 	int xDirection;
 	int yDirection;
 	int fieldHeight;
-	int test;
 	
 	public Ball(Activity activity){
 		ball = activity.findViewById(R.id.imageView2);
