@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SocialPong</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SocialPong</string>
+    <string name="play">Play</string>
+    <string name="paddle_desc">paddle</string>
+
+</resources>
